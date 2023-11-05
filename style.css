@@ -12,15 +12,6 @@
 }
 
 /* Variable definitions */
-:root {
-    /* Colors */ 
-    --white_color: rgb(255, 255, 255);
-    --orange_color: rgb(255, 165, 89);
-    --orange_dark_color: rgb(178, 175, 173);
-    --black_color: rgb(69, 69, 69);
-    --background_color: linear-gradient(to top left, #b156d9, #213780);
-    --font_color : rgb(255, 230, 199);
-}
 
 /* Container styling */
 .container {
